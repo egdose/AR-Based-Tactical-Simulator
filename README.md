@@ -24,6 +24,10 @@ Augmented Reality based tactical training simulator for special forces.
 
 - Final Demo: [Link](https://github.com/egdose/AR-Based-Tactical-Simulator/blob/main/Demo%20videos/FYP2-F21-03-D-ARTS-video.mp4)
 
+## Poster
+
+![alt text](Poster.png)
+
 ## Requirements
 
 Make sure you have the below requirements before starting:
@@ -38,7 +42,7 @@ Make sure you have the below requirements before starting:
 
 - Android devices in use for usage, testing, and demo will support ARCore and have a time-of-flight (ToF) sensor for good performance.
 
-## Download (NOTE: Code base is private, please contact for access)
+## Download
 
 - Clone the repository locally:
 
